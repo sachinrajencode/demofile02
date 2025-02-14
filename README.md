@@ -1,3 +1,3 @@
 # demofile02
 <b>junkfilenoneed<b/>
-dilbar <u>dilbar<b/>
+dilbar <b>dilbar<b/>
