@@ -1,4 +1,4 @@
 # demofile02
-<b>junkfilenoneed<b/>
+junkfilenoneed
 dilbar
 <b>dilbar<b/>
